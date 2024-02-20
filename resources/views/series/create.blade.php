@@ -1,5 +1,5 @@
 <x-layout title="Series">
-</x-layout>
+
 @section('cabecalho')
 Adicionar série
 @endsection
@@ -36,3 +36,4 @@ Adicionar série
         <button class="btn btn-primary mt-2">Adicionar</button>
     </form>
 @endsection
+</x-layout>
